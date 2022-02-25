@@ -1,1 +1,1 @@
-# Mini-Alexa
+# Mini-Alexa : A virtual AI assistant
